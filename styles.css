@@ -1,0 +1,42 @@
+html{
+    background-color: #eaeaea;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    margin: 0;
+}
+header{
+    background-color: white;
+}
+h1{
+    margin: auto;
+    width: 600px;
+    padding: 20px;
+}
+.feed{
+    display: inline;
+}
+.post{
+    background-color: white;
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.post p{
+    margin: 0;
+}
+.post img{
+    object-fit: cover;
+    object-position: center;
+    width: 600px;
+}
+.post div{
+    background-color: white;
+    padding: 20px 20px 20px 20px;
+}
+.spanPostDate{
+    float: right;
+    color: gray;
+}
